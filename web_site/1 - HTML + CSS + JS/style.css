@@ -1,0 +1,28 @@
+/* CSS styles */
+*{
+	margin: auto;
+	
+	padding: 10px;
+	text-align: center;
+}
+body{
+	background-image: linear-gradient(to right, rgba(255,255,255,100), rgba(255,255,0,1));
+	font-family: Palatino, serif;
+}
+
+h1 {
+	font-family: Impact, sans-serif;
+	color: #CE5937;
+}
+
+	  /* CSS styles */
+body{
+	background-image: linear-gradient(to right, rgba(255,255,255,100), rgba(255,255,0,1));
+	font-family: Palatino, serif;
+}
+
+h1 {
+	font-family: Impact, sans-serif;
+	color: #CE5937;
+}
+
